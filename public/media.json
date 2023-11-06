@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "src": "https://i.ibb.co/88MB6Qs/image-1.webp",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "src": "https://i.ibb.co/zRSR72m/image-2.webp",
+    "featured": false
+  },
+  {
+    "id": "3",
+    "src": "https://i.ibb.co/jgKS49p/image-3.webp",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "src": "https://i.ibb.co/y0d7D6k/image-4.webp",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "src": "https://i.ibb.co/cyt76wF/image-5.webp",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "src": "https://i.ibb.co/PDVrVNZ/image-6.webp",
+    "featured": false
+  },
+  {
+    "id": "7",
+    "src": "https://i.ibb.co/hL1r6y3/image-7.webp",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "src": "https://i.ibb.co/xMHPJTp/image-8.webp",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "src": "https://i.ibb.co/FXGWB0Q/image-9.webp",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "src": "https://i.ibb.co/61BVsyQ/image-10.jpg",
+    "featured": false
+  },
+  {
+    "id": "11",
+    "src": "https://i.ibb.co/rwx12Vw/image-11.jpg",
+    "featured": false
+  }
+]
