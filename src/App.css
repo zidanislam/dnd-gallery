@@ -6,6 +6,7 @@
     rgb(34 33 81 / 15%) 0px 2px 3px 2px;
   width: 85%;
   margin: auto;
+  padding: 10px 0px 40px 0px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -15,12 +16,20 @@
 }
 .section h2 {
   padding-left: 40px;
-  border-bottom: 2px solid grey;
+  border-bottom: 2px solid rgb(219, 219, 219);
 }
 .grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
+}
+.add-mage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed lightgray;
+  border-radius: 5px;
 }
 
 @media (max-width: 1024px) {

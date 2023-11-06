@@ -55,20 +55,20 @@ const App = () => {
         gridColumnStart: "span 2",
       };
     }
-  
+
     // Mobile responsive conditions
     if (window.innerWidth <= 768) {
       return {
         width: "100%",
       };
     }
-  
+
     return {
       width: 200,
       height: 200,
     };
   };
-  
+
   const handleDragCancel = useCallback(() => {
     setActiveId(null);
   }, []);
@@ -95,6 +95,9 @@ const App = () => {
                   id={image.id}
                 />
               ))}
+              <div className="add-mage">
+                <p>Add Image</p>
+              </div>
             </div>
           </div>
         </div>
