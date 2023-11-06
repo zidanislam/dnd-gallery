@@ -1,57 +1,46 @@
 [
   {
     "id": "1",
-    "src": "https://i.ibb.co/88MB6Qs/image-1.webp",
-    "featured": true
+    "src": "https://i.ibb.co/88MB6Qs/image-1.webp"
   },
   {
     "id": "2",
-    "src": "https://i.ibb.co/zRSR72m/image-2.webp",
-    "featured": false
+    "src": "https://i.ibb.co/zRSR72m/image-2.webp"
   },
   {
     "id": "3",
-    "src": "https://i.ibb.co/jgKS49p/image-3.webp",
-    "featured": false
+    "src": "https://i.ibb.co/jgKS49p/image-3.webp"
   },
   {
     "id": "4",
-    "src": "https://i.ibb.co/y0d7D6k/image-4.webp",
-    "featured": false
+    "src": "https://i.ibb.co/y0d7D6k/image-4.webp"
   },
   {
     "id": "5",
-    "src": "https://i.ibb.co/cyt76wF/image-5.webp",
-    "featured": false
+    "src": "https://i.ibb.co/cyt76wF/image-5.webp"
   },
   {
     "id": "6",
-    "src": "https://i.ibb.co/PDVrVNZ/image-6.webp",
-    "featured": false
+    "src": "https://i.ibb.co/PDVrVNZ/image-6.webp"
   },
   {
     "id": "7",
-    "src": "https://i.ibb.co/hL1r6y3/image-7.webp",
-    "featured": false
+    "src": "https://i.ibb.co/hL1r6y3/image-7.webp"
   },
   {
     "id": "8",
-    "src": "https://i.ibb.co/xMHPJTp/image-8.webp",
-    "featured": false
+    "src": "https://i.ibb.co/xMHPJTp/image-8.webp"
   },
   {
     "id": "9",
-    "src": "https://i.ibb.co/FXGWB0Q/image-9.webp",
-    "featured": false
+    "src": "https://i.ibb.co/FXGWB0Q/image-9.webp"
   },
   {
     "id": "10",
-    "src": "https://i.ibb.co/61BVsyQ/image-10.jpg",
-    "featured": false
+    "src": "https://i.ibb.co/61BVsyQ/image-10.jpg"
   },
   {
     "id": "11",
-    "src": "https://i.ibb.co/rwx12Vw/image-11.jpg",
-    "featured": false
+    "src": "https://i.ibb.co/rwx12Vw/image-11.jpg"
   }
 ]
